@@ -4,7 +4,7 @@
 Computer Science student
 -----------------
 
-I just some one that study in Computer Science and I'm currently looking for internship program
+I just some one that study in Computer Science.
 
 * 🌍  I'm based in Thailand
 * ✉️  You can contact me at [noppasin.torsirisakulvong@gmail.com](mailto:noppasin.torsirisakulvong@gmail.com)
