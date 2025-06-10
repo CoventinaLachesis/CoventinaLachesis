@@ -6,10 +6,10 @@ Computer Science student
 
 I just some one that study in Computer Science.
 
-* 🌍  I'm based in Thailand
+* 🌍  I'm based in Thailand, Bangkok
 * ✉️  You can contact me at [noppasin.torsirisakulvong@gmail.com](mailto:noppasin.torsirisakulvong@gmail.com)
 * 🧠  I'm learning Go , Unity
-* ⚡  Looking for internship opportunities
+* ⚡  Currently looking for job
 
 ### Skills
 *CORE
